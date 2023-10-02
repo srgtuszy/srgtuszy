@@ -7,9 +7,9 @@ I'm a developer who specialises in native mobile apps for iOS and Android (in th
 | iOS 📱 | Android 🤖 | IoT 🦾 |
 |---------|---------| --------- |
 | Swift  | Kotlin  | Arduino |
-| SwiftUI  | Jetpack Compose | Espressiv |
-| CoreBluetooth  | Android Auto | [BlueZ](http://www.bluez.org) |
-|  CarPlay | |
+| SwiftUI  | Jetpack Compose | Raspberry Pi |
+| CoreBluetooth  | Android Auto | Espressiv |
+|  CarPlay | [BlueZ](http://www.bluez.org) |
 
 I'm also one of those dinasours who worked with Objective-C and UIKit
 
