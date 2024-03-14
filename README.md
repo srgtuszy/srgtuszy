@@ -11,7 +11,7 @@ I'm a developer who specialises in native mobile apps for iOS and Android (in th
 | CoreBluetooth  | Android Auto | Espressif |
 |  CarPlay | | [BlueZ](http://www.bluez.org) |
 
-I'm also one of those dinasours who worked with Objective-C and UIKit
+I'm also one of those dinasours who worked with Objective-C and UIKit and XML-based Android views.
 
 ### Some of the stuff I created:
 
