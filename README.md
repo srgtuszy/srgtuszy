@@ -21,8 +21,8 @@ I'm also one of those dinasours who worked with Objective-C and UIKit
 
 ### Hackatons
 
-I love taking part in Hackatons. I also managed to win some of them. I'm also a cohost of a podcast which is entirely focused for hackatons: The [HackathonShow](https://open.spotify.com/show/7nzbELP0oEb06j6EM9hCaR?si=403399e906294535). 
-
+I love taking part in Hackatons. I also managed to win some of them. I'm also a cohost of a podcast which is entirely focused for hackatons: The [HackathonShow](https://open.spotify.com/show/7nzbELP0oEb06j6EM9hCaR?si=403399e906294535). Quite recently, I've won [HackYeah 2023](https://www.youtube.com/watch?v=KSgIre2zTdk) cybersecurity task
+<img width="1234" alt="Screenshot 2024-03-14 at 11 58 37" src="https://github.com/srgtuszy/srgtuszy/assets/290669/3ddde2bc-02e7-4e76-84d4-b4cf89d9a5d7">
 
 ### I occasionally speak at conferences such as:
 
