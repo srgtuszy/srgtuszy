@@ -18,7 +18,7 @@ I'm also one of those dinasours who worked with Objective-C and UIKit and XML-ba
 - [MTLabel](https://github.com/srgtuszy/MTLabel) Back in the day, `UILabel` was pretty limited so I rewrote it with some fireworks
 - [Base64Stream](https://github.com/srgtuszy/Base64Stream) You have a large base64 encoded file? Convert it to a stream instead!
 - [AndroidAr](https://github.com/srgtuszy/AndroidAr) I used to do some AR stuff on Android a while back before ARCore. I shared some of the code I used to make future devs life a little easier.
-- [llama-cpp-swift(https://github.com/srgtuszy/llama-cpp-swift) Swift bindings for talking with LLama and other compatible LLMs on your Apple devices
+- [llama-cpp-swift](https://github.com/srgtuszy/llama-cpp-swift) Swift bindings for talking with LLama and other compatible LLMs on your Apple devices
 
 ### Hackatons
 
