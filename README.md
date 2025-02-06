@@ -20,6 +20,22 @@ I'm also one of those dinasours who worked with Objective-C and UIKit and XML-ba
 - [AndroidAr](https://github.com/srgtuszy/AndroidAr) I used to do some AR stuff on Android a while back before ARCore. I shared some of the code I used to make future devs life a little easier.
 - [llama-cpp-swift](https://github.com/srgtuszy/llama-cpp-swift) Swift bindings for talking with LLama and other compatible LLMs on your Apple devices
 
+
+## Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=srgtuszy&show_icons=true&theme=radical" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srgtuszy&theme=radical" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ### Hackatons
 
 I love taking part in Hackatons. I also managed to win some of them. Quite recently, I've won [HackYeah 2023](https://www.youtube.com/watch?v=KSgIre2zTdk) cybersecurity task and [AngelHack Warsaw 2024](https://angelhack.com/hackglobal/warsaw/) social responsibility track.
