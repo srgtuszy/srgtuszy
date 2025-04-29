@@ -1,6 +1,6 @@
-## Hi there I'm Mike🔴 👋 
+## Hi there I'm Mike 👋 
 
-I'm a developer who specialises in native mobile apps for iOS and Android (in that order) which live on the intersection of physical and digital worlds. I work at [Intent](https://withintent.com) where I manage one of the mobile engineering teams.
+I'm a developer who specialises in native mobile apps for iOS and Android (in that order) which live on the intersection of physical and digital worlds.
 
 ## Tools I use during work 
 
